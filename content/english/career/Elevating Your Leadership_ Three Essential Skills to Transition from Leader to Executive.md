@@ -6,7 +6,7 @@ description: "Ideal for professionals poised to take on executive responsibiliti
 date: 2024-06-04T00:00:00Z
 image: "https://cdn.nlark.com/yuque/0/2024/png/2907795/1717750568147-389c9dfa-735b-4b2c-ad3b-7babda1affb6.png"
 categories: ["Career"]
-author: "DailyLifeSystems"
+author: "youareenoughquotes"
 tags: ["Leadership Skills", "Get a Promotion", "Success", "Career Development Plan"]
 type: "blog"
 draft: false

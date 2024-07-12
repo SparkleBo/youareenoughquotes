@@ -6,7 +6,7 @@ description: "Perfect for ambitious professionals eager to fast-track their succ
 date: 2024-06-04T00:00:00Z
 image: "https://cdn.nlark.com/yuque/0/2024/png/2907795/1717751248141-18886a45-cd9f-4b96-9971-d5a5ce3170a6.png"
 categories: ["Career"]
-author: "DailyLifeSystems"
+author: "youareenoughquotes"
 tags: ["Mentorship", "Best Career Advice", "Career Development Plan"]
 type: "blog"
 draft: false

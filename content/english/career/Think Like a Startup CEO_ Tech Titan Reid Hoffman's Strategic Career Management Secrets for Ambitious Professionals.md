@@ -7,7 +7,7 @@ date: 2024-06-03T05:00:00Z
 image: "/images/landing/60f8df54-2d83-45b6-b506-8fb287eee902.png"
 type: "blog"
 categories: ["Career"]
-author: "DailyLifeSystems"
+author: "youareenoughquotes"
 tags: ["Career"]
 draft: false
 ---

@@ -6,7 +6,7 @@ description: "This guide provides actionable insights into creating a strong, su
 date: 2024-06-04T00:00:00Z
 image: "https://cdn.nlark.com/yuque/0/2024/png/2907795/1717750515738-0f4c5403-396e-454b-924a-d60714522423.png"
 categories: ["Career"]
-author: "DailyLifeSystems"
+author: "youareenoughquotes"
 tags: ["Best Career Advice", "Job Security", "Get a Promotion"]
 type: "blog"
 draft: false

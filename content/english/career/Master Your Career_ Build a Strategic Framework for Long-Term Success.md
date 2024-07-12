@@ -6,7 +6,7 @@ description: "Unlock the secrets to accelerated career growth with our comprehen
 date: 2024-06-04T00:00:00Z
 image: "https://cdn.nlark.com/yuque/0/2024/png/2907795/1717750373933-c5f944ba-8258-42dd-b702-f1156aa58687.png"
 categories: ["Career"]
-author: "DailyLifeSystems"
+author: "youareenoughquotes"
 tags: ["Best Career Advice", "Success", "Career Development Plan"]
 type: "blog"
 draft: false

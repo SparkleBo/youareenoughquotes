@@ -6,7 +6,7 @@ description: "Dive into our comprehensive guide on pursuing career-enhancing ski
 date: 2024-06-04T00:00:00Z
 image: "https://cdn.nlark.com/yuque/0/2024/png/2907795/1717750494283-5549691c-a2f7-4da9-acbc-87b3a99f11c5.png"
 categories: ["Career"]
-author: "DailyLifeSystems"
+author: "youareenoughquotes"
 tags: ["Best Career Advice", "Success", "Get a Promotion"]
 type: "blog"
 draft: false

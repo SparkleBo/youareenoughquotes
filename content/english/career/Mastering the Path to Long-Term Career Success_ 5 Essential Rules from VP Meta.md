@@ -6,7 +6,7 @@ description: "Dive into expert advice from a top executive at Meta, as you learn
 date: 2024-06-04T00:00:00Z
 image: "https://cdn.nlark.com/yuque/0/2024/png/2907795/1717750544140-79591171-2aff-48b9-b003-fc818860e7b1.png"
 categories: ["Career"]
-author: "DailyLifeSystems"
+author: "youareenoughquotes"
 tags: ["Best Career Advice", "Career Development Plan", "Get a Promotion"]
 type: "blog"
 draft: false
