@@ -1,0 +1,9 @@
+// Add your own custom styles here
+
+.prose p img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;  // 确保图片不会超出其容器宽度
+    height: auto;  // 保持图片的原始宽高比
+}
