@@ -16,5 +16,3 @@ social:
     icon: fa-brands fa-linkedin
     link: https://linkedin.com
 ---
-
-

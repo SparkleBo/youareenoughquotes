@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  @apply bg-body text-base dark:bg-darkmode-body font-primary font-normal leading-relaxed text-text dark:text-darkmode-text;
+  @apply bg-body-dark bg-repeat bg-auto text-base dark:bg-darkmode-body font-primary font-normal leading-relaxed text-white dark:text-darkmode-text;
 }
 
 h1,
@@ -12,12 +12,24 @@ h3,
 h4,
 h5,
 h6 {
-  @apply font-secondary font-bold leading-tight text-dark dark:text-darkmode-dark;
+  @apply font-primary font-bold leading-tight text-white dark:text-darkmode-dark;
+  text-shadow: 
+  3px 3px 0 #FF87A1,
+  -3px 3px 0 #FF87A1,
+  3px -3px 0 #FF87A1,
+  -3px -3px 0 #FF87A1,
+  3px 0px 0 #FF87A1,
+  -3px 0px 0 #FF87A1,
+  0px 3px 0 #FF87A1,
+  0px -3px 0 #FF87A1,
+  0px 0px 70px #000000, 
+  2px 2px 0px #FF6379;
+  display: inline-block; 
 }
 
 h1,
 .h1 {
-  @apply text-h1-sm md:text-h1;
+  @apply text-h1-md md:text-h1;
 }
 
 h2,

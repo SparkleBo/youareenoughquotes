@@ -66,11 +66,15 @@ module.exports = {
           "theme-dark": theme.colors.darkmode.theme_color.theme_dark,
         },
       },
+      backgroundImage: {
+        "body-dark": 'url("/images/bg.png")',
+      },
       fontSize: {
         base: font_base + "px",
         "base-sm": font_base * 0.8 + "px",
         h1: h1 + "rem",
         "h1-sm": h1 * 0.9 + "rem",
+        "h1-md": h1 * 1.1 + "rem",
         h2: h2 + "rem",
         "h2-sm": h2 * 0.9 + "rem",
         h3: h3 + "rem",
@@ -82,6 +86,10 @@ module.exports = {
       fontFamily: {
         primary: [fontPrimary, fontPrimaryType],
         secondary: [fontSecondary, fontSecondaryType],
+      },
+      boxShadow: {
+        "custom-white": "15.07px 13.4px 17.92px 0px #FFFFFF40 inset",
+        "custom-red": "5.02px -5.02px 10.55px 0px #F46B6B inset",
       },
     },
   },

@@ -29,6 +29,8 @@ ID = 'G-HYL9DTS19H' # see https://gohugo.io/templates/internal/#configure-google
 [permalinks.page]
 "pages" = "/:slugorfilename/"
 
+bgImage="/images/bn.png"
+
 
 ############################# Modules ############################
 [module]
@@ -94,7 +96,7 @@ maxAge = "720h"
 unsafe = true
 
 [markup.highlight]
-style = 'monokai' # see https://xyproto.github.io/splash/docs/all.html
+style = 'monokailight' # see https://xyproto.github.io/splash/docs/all.html
 
 [markup.tableOfContents]
 startLevel = 2

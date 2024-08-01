@@ -12,7 +12,7 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 
 .header {
-  @apply bg-body dark:bg-darkmode-body py-6;
+  @apply bg-opacity-0 dark:bg-darkmode-body py-6;
 }
 
 // navbar items
@@ -36,7 +36,8 @@ input#nav-toggle:checked ~ #nav-menu {
 // }
 
 .nav-link {
-  @apply text-dark hover:text-primary dark:text-darkmode-dark dark:hover:text-darkmode-primary block p-3 cursor-pointer font-semibold transition lg:px-2 lg:py-3;
+  @apply text-white hover:text-primary dark:text-darkmode-dark dark:hover:text-darkmode-primary block p-3 cursor-pointer font-semibold transition lg:px-2 lg:py-3;
+  text-shadow: 2.35px 2.35px 0px #FF6379;
 }
 
 .nav-dropdown {
