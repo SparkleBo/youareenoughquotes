@@ -7,7 +7,7 @@ banners:
     button:
       enable: true
       label: "+Add to Chrome (it's free)"
-      link: "https://chromewebstore.google.com/detail/you-are-enough-quotes-the/jjhepbefjobocclogioacjcbnnkbiffn?authuser=0&hl=en"
+      link: "https://chromewebstore.google.com/detail/you-are-enough-themes/jjhepbefjobocclogioacjcbnnkbiffn?authuser=0&hl=en"
   - title: ""
     content: "Transform your New Tab into a nurturing space to inspire self-acceptance, fuel your motivation, find your pace, discover your authentic self, and live a fulfilled life, free from energy-draining things like burnout or peer pressure in this fast-paced world."
     image: "/images/banner2.png"
@@ -23,7 +23,7 @@ features:
     button:
       enable: true
       label: "+Add to Chrome (it's free)"
-      link: "https://chromewebstore.google.com/detail/you-are-enough-quotes-the/jjhepbefjobocclogioacjcbnnkbiffn?authuser=0&hl=en"
+      link: "https://chromewebstore.google.com/detail/you-are-enough-themes/jjhepbefjobocclogioacjcbnnkbiffn?authuser=0&hl=en"
 
   - title: "Empower Your Day with Inspirational Quotes Wallpapers"
     image: "/images/service-2.png"
@@ -31,7 +31,7 @@ features:
     button:
       enable: true
       label: "+Add to Chrome (it's free)"
-      link: "https://chromewebstore.google.com/detail/you-are-enough-quotes-the/jjhepbefjobocclogioacjcbnnkbiffn?authuser=0&hl=en"
+      link: "https://chromewebstore.google.com/detail/you-are-enough-themes/jjhepbefjobocclogioacjcbnnkbiffn?authuser=0&hl=en"
 
   - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
     image: "/images/service-3.png"
@@ -39,7 +39,7 @@ features:
     button:
       enable: true
       label: "+Add to Chrome (it's free)"
-      link: "https://chromewebstore.google.com/detail/you-are-enough-quotes-the/jjhepbefjobocclogioacjcbnnkbiffn?authuser=0&hl=en"
+      link: "https://chromewebstore.google.com/detail/you-are-enough-themes/jjhepbefjobocclogioacjcbnnkbiffn?authuser=0&hl=en"
 
   - title: "Unlock Your Productivity with Focus Mode:"
     image: "/images/service-4.png"
@@ -47,7 +47,7 @@ features:
     button:
       enable: true
       label: "+Add to Chrome (it's free)"
-      link: "https://chromewebstore.google.com/detail/you-are-enough-quotes-the/jjhepbefjobocclogioacjcbnnkbiffn?authuser=0&hl=en"
+      link: "https://chromewebstore.google.com/detail/you-are-enough-themes/jjhepbefjobocclogioacjcbnnkbiffn?authuser=0&hl=en"
 
 # End Banner
 end_banners:
