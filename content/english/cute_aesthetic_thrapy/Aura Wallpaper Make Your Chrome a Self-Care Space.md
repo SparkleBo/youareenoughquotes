@@ -1,8 +1,8 @@
 ---
-title: "【Aura Wallpaper】🌟 Make Your Chrome a Self-Care Space: Top 6 Aura Backgrounds with Pomodoro Timers and Breath Exercises 🌈"
+title: "🌟 Make Your Chrome a Self-Care Space: Top 6 Aura Backgrounds with Pomodoro Timers and Breath Exercises 🌈"
 meta_title: "Aura  Wallpaper - Make Your Chrome a Self-Care Space: Top 6 Aura Backgrounds with Pomodoro Timers and Breath Exercises"
 meta_description: "Discover our curated collection of aura, heart, and pink wallpapers for your MacBook, designed to enhance both aesthetics and productivity. These backgrounds, complete with Pomodoro timers and calming exercises, transform your browser into a perfect self-care space."
-description: "【Aura Wallpaper】🌟 Make Your Chrome a Self-Care Space: Top 6 Aura Backgrounds with Pomodoro Timers and Breath Exercises 🌈"
+description: "🌟 Make Your Chrome a Self-Care Space: Top 6 Aura Backgrounds with Pomodoro Timers and Breath Exercises 🌈"
 keywords:
   [
     "aura wallpaper",
