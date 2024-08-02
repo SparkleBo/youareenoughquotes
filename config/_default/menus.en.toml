@@ -2,14 +2,19 @@
 
 # main menu
 [[main]]
-name = "The Power of You Are Enough"
+name = "Home"
 pageRef = "/"
 weight = 1
 
 [[main]]
+name = "The Power of You Are Enough"
+pageRef = "/"
+weight = 2
+
+[[main]]
 name = " Cute & Aesthetic Thrapy"
 pageRef = "/cute_aesthetic_thrapy/aura-wallpaper-make-your-chrome-a-self-care-space/"
-weight = 2
+weight = 3
 
 
 
