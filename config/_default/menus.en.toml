@@ -2,25 +2,15 @@
 
 # main menu
 [[main]]
-name = "About"
+name = "The Power of You Are Enough"
 pageRef = "/"
 weight = 1
 
-
 [[main]]
-name = "You Are Enough Quotes"
-pageRef = "/career"
+name = " Cute & Aesthetic Thrapy"
+pageRef = "/cute_aesthetic_thrapy/aura-wallpaper-make-your-chrome-a-self-care-space/"
 weight = 2
 
-[[main]]
-name = "Behind the Product"
-pageRef = "/contact"
-weight = 3
-
-[[main]]
-name = "Our Teams"
-pageRef = "/author"
-weight = 4
 
 
 # footer menu

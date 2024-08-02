@@ -64,7 +64,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 [metadata]
 keywords = ["You Are Enough", "Quotes"]
 description = ""
-author = "zeon.studio"
+author = "youareenoughquotes"
 image = "images/og-image.png"
 
 

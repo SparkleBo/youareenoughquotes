@@ -67,7 +67,7 @@ module.exports = {
         },
       },
       backgroundImage: {
-        "body-dark": 'url("/images/bg.png")',
+        "body-dark": 'url("/images/bg2.png")',
       },
       fontSize: {
         base: font_base + "px",
