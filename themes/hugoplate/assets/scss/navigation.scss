@@ -17,7 +17,7 @@ input#nav-toggle:checked ~ #nav-menu {
 
 // navbar items
 .navbar {
-  @apply relative flex flex-wrap items-center justify-between;
+  @apply relative flex flex-wrap items-center justify-start;
 }
 
 .navbar-brand {
@@ -31,13 +31,13 @@ input#nav-toggle:checked ~ #nav-menu {
   @apply text-center lg:text-left;
 }
 
-// .nav-item {
-//   @apply mx-3;
-// }
+.nav-item {
+  @apply mx-3;
+}
 
 .nav-link {
   @apply text-white hover:text-primary dark:text-darkmode-dark dark:hover:text-darkmode-primary block p-3 cursor-pointer font-semibold transition lg:px-2 lg:py-3;
-  text-shadow: 2.35px 2.35px 0px #FF6379;
+  text-shadow: 1.35px 1.35px 0px #FF6379;
 }
 
 .nav-dropdown {
