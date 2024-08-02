@@ -1,5 +1,5 @@
 {
-  "main": [
+  "share": [
     {
       "name": "facebook",
       "icon": "fab fa-facebook",
@@ -20,5 +20,33 @@
       "icon": "fab fa-linkedin",
       "link": "https://www.linkedin.com/"
     }
+  ],
+  "main": [
+    {
+      "name": "tiktok",
+      "icon": "fab fa-tiktok",
+      "link": "https://www.tiktok.com/@youareenoughquote4u?_t=8oX0MEn07DP&_r=1"
+    },
+    {
+      "name": "pinterest",
+      "icon": "fab fa-pinterest",
+      "link": "https://www.pinterest.com/youareenoughspace/"
+    },
+    {
+      "name": "lemon8",
+      "icon": "/images/lemon8.svg",
+      "link": "https://v.lemon8-app.com/s/SkpTFUspR"
+    },
+    {
+      "name": "instagram",
+      "icon": "fab fa-instagram",
+      "link": "https://www.instagram.com/you_are_enough_space?igsh=emJua3I4Y2t0OWRs&utm_source=qr"
+    },
+    {
+      "name": "youtube",
+      "icon": "fab fa-youtube",
+      "link": "https://www.youtube.com/channel/UCid5WkUdOI8b4KmPyGDlUpQ"
+    }
   ]
+
 }
