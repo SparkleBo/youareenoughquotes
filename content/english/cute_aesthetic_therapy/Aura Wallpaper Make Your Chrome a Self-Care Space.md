@@ -13,7 +13,7 @@ keywords:
   ]
 date: 2024-08-01T00:00:00Z
 image: "/images/article/1722582978248-3b740ad5-b38f-48ca-90bd-ba012d2e0e0a.png"
-categories: ["Career"]
+categories: ["Cute aesthetic therapy"]
 author: "youareenoughquotes"
 tags: []
 type: "blog"
@@ -40,7 +40,7 @@ Feel the love and cosmic energy with the Celestial Heart background 💜. This t
 
 Start your day with the peaceful hues of a sunrise with the Sunrise Serenity background 🌄. This theme's soft pinks and gentle blues are designed to inspire tranquility and a positive start to the day. The Pomodoro timer aids in establishing a productive morning routine, while the breathing exercise, led by the adorable character, offers a moment of calm, preparing you for the challenges ahead 🕊️
 .
-![](https://cdn.nlark.com/yuque/0/2024/png/2907795/1722575924464-5d811e2f-b8ff-402b-a670-f3e00d3d2430.png#averageHue=%23b5a6ea&clientId=u59597370-e40c-4&from=paste&id=uaf337e6f&originHeight=954&originWidth=1482&originalType=url&ratio=2.200000047683716&rotation=0&showTitle=false&status=done&style=none&taskId=u13300b9c-8721-431e-bec4-468b9239129&title=)
+![](/images/article/1722575924464-5d811e2f-b8ff-402b-a670-f3e00d3d2430.png)
 
 {{< extensionbtn >}}
 

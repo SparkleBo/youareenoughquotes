@@ -13,10 +13,8 @@ weight = 2
 
 [[main]]
 name = " Cute & Aesthetic Therapy"
-pageRef = "/cute_aesthetic_therapy/aura-wallpaper-make-your-chrome-a-self-care-space/"
+pageRef = "/cute_aesthetic_therapy"
 weight = 3
-
-
 
 # footer menu
 [[footer]]
