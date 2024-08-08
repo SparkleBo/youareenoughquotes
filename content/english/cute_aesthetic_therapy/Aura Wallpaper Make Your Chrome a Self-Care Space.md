@@ -14,7 +14,7 @@ keywords:
 date: 2024-08-01T00:00:00Z
 image: "/images/article/1722582978248-3b740ad5-b38f-48ca-90bd-ba012d2e0e0a.png"
 categories: ["Cute aesthetic therapy"]
-author: "youareenoughquotes"
+author: "youareenoughspace"
 tags: []
 type: "blog"
 draft: false

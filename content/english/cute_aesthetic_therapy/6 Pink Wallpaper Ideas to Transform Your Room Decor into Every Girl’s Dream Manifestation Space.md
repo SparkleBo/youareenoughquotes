@@ -17,9 +17,9 @@ keywords:
     "Room Decor Inspiration",
   ]
 date: 2024-08-07T00:00:00Z
-image: "/images/article/1723023297021-096b489e-c674-4c64-861e-8c40d3977471.jpeg"
+image: "/images/article/1723023297021-096b489e-c674-4c64-861e-8c40d3977471.jpg"
 categories: ["Cute aesthetic therapy"]
-author: "youareenoughquotes"
+author: "youareenoughspace"
 tags: []
 type: "blog"
 draft: false
