@@ -1,5 +1,5 @@
 ---
-title: "6 Pink Wallpaper Ideas to Transform Your Room Decor into Every Girl’s Dream Manifestation Space"
+title: "🩷 6 Pink Wallpaper Ideas to Transform Your Room Decor into Every Girl’s Dream Manifestation Space"
 meta_title: "6 Pink Wallpaper Ideas to Transform Your Room Decor into Every Girl’s Dream Manifestation Space"
 meta_description: "Discover six transformative pink wallpaper ideas to enhance your room with themes like Pink Butterfly, Aura Poster, and Spiritual Prints. Our specially curated selection includes gradient wall arts, abstract colour gradients, and positive affirmations designed to inspire and uplift your personal space. Transform your room into a haven of positivity and creativity with our empowering 'You Are Enough' quotes and aura energy designs. Perfect for anyone looking to add a touch of serenity and inspiration to their daily living environment."
 description: "6 Pink Wallpaper Ideas to Transform Your Room Decor into Every Girl’s Dream Manifestation Space"
