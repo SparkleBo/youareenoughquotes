@@ -18,7 +18,7 @@ navbar_fixed = true
 theme_switcher = true
 theme_default = "system" # available options [light/dark/system]
 # Main Sections
-mainSections = ["blog"]
+mainSections = ["cute_aesthetic_therapy", "the_power_of_you_are_enough"]
 # contact form action
 contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
@@ -64,7 +64,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 [metadata]
 keywords = ["You Are Enough", "Quotes"]
 description = ""
-author = "youareenoughquotes"
+author = "youareenoughspace"
 image = "images/og-image.png"
 
 

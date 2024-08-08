@@ -2,7 +2,7 @@
 title: "🌸 5 Effective Tips to Overcome Negative Self-Talk and Make Peace with Yourself"
 meta_title: "🌸 5 Effective Tips to Overcome Negative Self-Talk and Make Peace with Yourself"
 meta_description: "Discover how to stop negative self-talk and embrace a healthier mindset with our comprehensive guide. Learn actionable steps to replace self-critical thoughts with empowering affirmations, appreciate the importance of rest, and adopt an acceptance mindset. This article provides essential tips to help you correct self-defeating behaviors, set healthy boundaries, and promote personal growth, leading you towards a life of emotional well-being and self-fulfillment."
-description: "Discover how to stop negative self-talk and embrace a healthier mindset with our comprehensive guide. Learn actionable steps to replace self-critical thoughts with empowering affirmations, appreciate the importance of rest, and adopt an acceptance mindset. This article provides essential tips to help you correct self-defeating behaviors, set healthy boundaries, and promote personal growth, leading you towards a life of emotional well-being and self-fulfillment."
+description: "🌸 5 Effective Tips to Overcome Negative Self-Talk and Make Peace with Yourself"
 keywords:
   [
     "Stop Negative Self-Talk",
