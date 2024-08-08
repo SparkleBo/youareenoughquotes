@@ -36,6 +36,8 @@ It's essential to eliminate the "shoulds" from your internal dialogue, which oft
 
 Acknowledging that rest and self-care are productive can help combat feelings of guilt associated with "doing nothing." Simple actions like listening to your body, enjoying a beloved TV show, or taking a mental health day are vital for maintaining balance and should be viewed as necessary aspects of a healthy routine.
 
+![](/images/article/Oc4BwolkriED9mk63OcckdhTnUc.png)
+
 ## **3. Embrace an Acceptance Mindset**
 
 Developing an acceptance mindset can significantly reduce anxiety about the uncontrollable aspects of life. Understand that some situations are only temporary and that your response to them defines their impact on your life. This perspective encourages you to focus on actionable steps and helps manage emotional responses more effectively.

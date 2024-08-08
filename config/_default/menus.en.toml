@@ -12,9 +12,14 @@ pageRef = "/the_power_of_you_are_enough"
 weight = 2
 
 [[main]]
-name = " Cute & Aesthetic Therapy"
+name = "Cute & Aesthetic Therapy"
 pageRef = "/cute_aesthetic_therapy"
 weight = 3
+
+[[main]]
+name = "Create A Nurturing Space"
+pageRef = "/"
+weight = 4
 
 # footer menu
 [[footer]]
