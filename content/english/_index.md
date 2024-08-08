@@ -33,7 +33,7 @@ features:
       label: "+Add to Chrome (it's free)"
       link: "https://chromewebstore.google.com/detail/you-are-enough-themes/jjhepbefjobocclogioacjcbnnkbiffn?authuser=0&hl=en"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "Breath Exercise for Mindful Breaks:"
     image: "/images/service-3.png"
     content: "Look forward to incorporating quick, effective mindfulness exercises into your routine with our Breathe & Reset feature. \nDesigned to promote relaxation and clarity it's the perfect companion for anyone looking to destress and refocus in just minutes."
     button:
