@@ -8,7 +8,7 @@ weight = 1
 
 [[main]]
 name = "The Power of You Are Enough"
-pageRef = "/"
+pageRef = "/the_power_of_you_are_enough"
 weight = 2
 
 [[main]]
