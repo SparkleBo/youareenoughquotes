@@ -1,18 +1,15 @@
 ---
 # Banner
 banners:
-  - title: ""
-    content: "Transform your daily browsing into <br> a source of empowerment<br>& a daily reminder <br>that you are more than your productivity <br>— you are your priorities."
+  - title: "Transform your daily browsing into <br> a source of empowerment<br>& a daily reminder <br>that you are more than your productivity <br>— you are your priorities."
     image: "/images/banner.png"
     button:
       enable: true
       label: "+Add to Chrome (it's free)"
       link: "https://chromewebstore.google.com/detail/you-are-enough-themes/jjhepbefjobocclogioacjcbnnkbiffn?authuser=0&hl=en"
-  - title: ""
-    content: "Transform your New Tab into a nurturing space to inspire self-acceptance, fuel your motivation, find your pace, discover your authentic self, and live a fulfilled life, free from energy-draining things like burnout or peer pressure in this fast-paced world."
+  - title: "Transform your New Tab into a nurturing space to inspire self-acceptance, fuel your motivation, find your pace, discover your authentic self, and live a fulfilled life, free from energy-draining things like burnout or peer pressure in this fast-paced world."
     image: "/images/banner2.png"
   - title: "What's inclueded in You Are Enough Chrome Extention"
-    content: ""
     image: "/images/banner3.png"
 
 # Features

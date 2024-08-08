@@ -3,6 +3,7 @@
 baseURL = "https://www.youareenoughquotes.com/"
 # Title of your website (required).
 title = "You Are Enough: Transform Your Surroundings into a Nurturing Space"
+description="Discover the power of self-affirmation with You Are Enough Quotes, your premier destination for inspiring aura wallpapers and pink aesthetics designed to uplift and empower. Our unique collection of 'You Are Enough' quotes is carefully curated to boost your self-esteem and enhance your digital space with beauty and positivity. Dive into our world of stunning visuals and transformative messages that resonate with your inner strength and beauty."
 # Your theme name
 theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List

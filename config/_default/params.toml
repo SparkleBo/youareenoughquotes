@@ -62,9 +62,8 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["You Are Enough", "Quotes"]
-description = ""
-author = "youareenoughspace"
+keywords = ["you are enough quotes", "aura wallpaper", "pink", "cute aesthetics", "pink power", "butterfly"]
+description = "You Are Enough Quotes, your premier destination for inspiring aura wallpapers and pink aesthetics designed to uplift and empower."
 image = "images/og-image.png"
 
 
