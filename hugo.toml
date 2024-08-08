@@ -101,7 +101,7 @@ style = 'monokailight' # see https://xyproto.github.io/splash/docs/all.html
 [markup.tableOfContents]
 startLevel = 2
 endLevel = 5
-ordered = true
+ordered = false
 
 
 ########################### Media types ###########################
