@@ -12,12 +12,12 @@
           <h1 class="h2 mb-4">
             {{ .Title }}
           </h1>
-          <ul class="mb-4">
-            <li class="mr-4 inline-block">
+          <ul class="mb-4 items-end">
+            <li class="mr-4 inline-flex items-baseline">
+              <img class="w-6 h-6 self-center mr-1 rounded-full"  src="/images/favicon.png" ></img>
               <a
                 href="{{ `authors/` | relLangURL }}{{ .Params.Author | urlize }}/">
-                <i class="fa-regular fa-circle-user mr-2"></i
-                >{{ .Params.author }}
+                {{ .Params.author }}
               </a>
             </li>
             {{ $categories:= .Params.categories }}
