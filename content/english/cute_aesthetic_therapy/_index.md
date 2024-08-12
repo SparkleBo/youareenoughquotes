@@ -1,6 +1,6 @@
 ---
-title: "Cute & Aethetic Therapy"
+title: "Cute & Aesthetic Therapy"
 meta_title: ""
-description: "cute & aethetic therapy"
+description: "cute & aesthetic therapy"
 type: "blog"
 ---
