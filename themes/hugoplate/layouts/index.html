@@ -32,6 +32,38 @@
       </div>
     </section>
   {{ end }}
+
+  <!-- Introductions -->
+  {{ range $i, $e:= .Params.intros }}
+    <section class="section pt-14">
+      <div class="container">
+        <div class="row justify-center">
+          <div class="lg:col-10 md:col-10 mb-8 text-center">
+            <h2 class="mb-4 text-h3 lg:text-h1">
+              {{ .title | markdownify }}
+            </h2>
+            <br>
+            {{ with .button }}
+              {{ if .enable }}
+                <a
+                  class="btn btn-primary"
+                  href="{{ .link | absURL }}"
+                  {{ if strings.HasPrefix .link `http` }}
+                    target="_blank" rel="noopener"
+                  {{ end }}>
+                  {{ .label }}
+                </a>
+              {{ end }}
+            {{ end }}
+          </div>
+          <div class="col-12">
+            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[1200px]" "DisplayXL" "2400x" ) }}
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+
   <!-- Features -->
   {{ range $i, $e:= .Params.features }}
     <section class="section-sm">

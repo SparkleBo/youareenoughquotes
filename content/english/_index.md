@@ -7,6 +7,9 @@ banners:
       enable: true
       label: "+Add to Chrome (it's free)"
       link: "https://chromewebstore.google.com/detail/you-are-enough-themes/jjhepbefjobocclogioacjcbnnkbiffn?authuser=0&hl=en"
+
+# Introduction
+intros:
   - title: "Transform your New Tab into a nurturing space to inspire self-acceptance, fuel your motivation, find your pace, discover your authentic self, and live a fulfilled life, free from energy-draining things like burnout or peer pressure in this fast-paced world."
     image: "/images/banner2.png"
   - title: "What's inclueded in You Are Enough Chrome Extention"
